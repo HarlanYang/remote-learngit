@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 No Fast forward mode.
 This is a test.
 Test one more time.
+Test.
